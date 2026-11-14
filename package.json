@@ -2,7 +2,7 @@
   "name": "template-reels-t05-ui-aplikasi-kaca",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render T05AppUI out/video.mp4",

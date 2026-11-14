@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // T05 v2 · UI Aplikasi Kaca — mengikuti ritme reel acuan per detik (9 Nov 2026).
 // Urutan: pil kecil tumbuh + titik biru memantul → pil melebar berisi keluhan → kartu kalender jatuh miring dengan kata
 // raksasa abu di belakang + kilat warna latar → ikon 3D + "Lagi?" → kalender naik, kartu log meluncur dari bawah, centang
